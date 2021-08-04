@@ -19,13 +19,13 @@ Minimum <a href="#memory-consumption">RAM requirements</a>
 # Installation
 
 ```
-$ git clone https://github.com/purpyl-media/btc-hack.git btc-hack
+$ git clone https://github.com/alex14324/btc_h.git btc_h
 ```
 
 # Quick Start
 
 ```
-$ python3 btc-hack.py
+$ python3 btc_h.py
 ```
 
 # Proof Of Concept
@@ -79,4 +79,4 @@ The memory consumption stack trace was made by using <a href="https://pypi.org/p
 - [X] Find a faster FREE API with greater allowances. 
 
 
-<a href="https://github.com/purpyl-media/btc-hack/issues">Create an issue</a> so I can add more stuff to improve
+<a href="https://github.com/alex14324/btc_h/issues">Create an issue</a> so I can add more stuff to improve
